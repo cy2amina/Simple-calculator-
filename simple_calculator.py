@@ -18,4 +18,8 @@ elif op == '/':
     else:
         print("Cannot divide by zero")
 else:
-    print("Invalid operation")
+    print("Invalid operation").            # Simple Calculator
+# Created by a high school student learning Python
+
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
